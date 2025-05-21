@@ -1,0 +1,1 @@
+os inserts são fictícios, portanto nosso bd é ficticio
